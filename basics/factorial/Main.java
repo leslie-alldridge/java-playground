@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
 /**
- * Write a description of class Main here.
+ * Return factorial from user input.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Leslie
+ * @version 1
  */
 public class Main
 {
