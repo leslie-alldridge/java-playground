@@ -1,17 +1,15 @@
 
 /**
- * Write a description of class BankMain here.
+ * Interact with bank account
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Leslie
+ * @version 1
  */
 public class BankMain
 {
     /**
-     * An example of a method - replace this comment with your own
+     * Main
      *
-     * @param  y  a sample parameter for a method
-     * @return    the sum of x and y
      */
     public static void main(String[] args)
     {
