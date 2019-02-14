@@ -7,7 +7,7 @@
  */
 public class Account
 {
-    // instance variables - replace the example below with your own
+    // instance variables
     private double balance;
     private double remainder;
     /**
